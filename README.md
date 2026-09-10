@@ -1,80 +1,33 @@
 # Román González
 
-```bash
-> Initializing system...
-> Loading modules: QA | Full Stack | Automation
-> Status: ACTIVE 🟢
-```
+### QA Engineer · Web Development · API Testing
 
-🚀 **Software Engineer | QA Tester | Full Stack Developer**
+I work in software quality assurance and build web projects with JavaScript, HTML and CSS. My focus is making software easier to use, test and maintain while developing my full-stack skills with React and Node.js.
 
-Building scalable, reliable and production-ready applications.
+[LinkedIn](https://www.linkedin.com/in/romannicolasgonzalez/) · [Email](mailto:gonzalezromannicolas@gmail.com) · [Repositories](https://github.com/romangon10?tab=repositories)
 
----
+## What I bring
 
-## 🧠 About Me
+- **Quality assurance:** functional testing, test case design, defect reporting and regression testing.
+- **API testing:** Postman, Newman and automated API checks.
+- **Development:** JavaScript, Python, HTML and CSS; growing my React and Node.js portfolio.
+- **Collaboration:** Jira, Xray, Confluence and Agile/Scrum workflows.
+- **Databases:** experience working with MySQL and Oracle.
 
-Full Stack Developer and QA Engineer focused on delivering high-quality software.
-I combine development and testing to build robust, efficient and scalable systems.
+## Selected projects
 
-🔍 Software Testing & Quality Assurance
-⚙️ Web Development
-🤖 Automation
-🚀 Business-oriented solutions
+These repositories document my learning and development work. Their READMEs describe setup instructions, current functionality and planned improvements.
 
----
+| Project | Focus | Source |
+| --- | --- | --- |
+| Colmena Market | Marketplace frontend prototype; a foundation for a full-stack commerce project | [Explore repository](https://github.com/romangon10/Colmena-Market) |
+| Universos Paralelos | Interactive science-fiction web experiment with HTML, CSS and JavaScript | [Explore repository](https://github.com/romangon10/Universos-Paralelos) |
+| Hacker Web Simulation | Visual terminal simulation and browser interactions | [Explore repository](https://github.com/romangon10/Hacker-Web-Simulation) |
 
-## 🛠️ Tech Stack
+## How I approach projects
 
-### 💻 Frontend
+I aim to connect implementation with clear acceptance criteria: explain what works, document how to run it, test important user journeys and track remaining limitations. My next portfolio milestones are persistent APIs, authentication, automated integration tests and reproducible deployment.
 
-HTML | CSS | JavaScript | React
+## Let's connect
 
-### ⚙️ Backend
-
-Node.js | Python
-
-### 🗄️ Database
-
-SQL
-
-### 🧪 QA & Testing
-
-Manual Testing
-Test Case Design
-Bug Reporting
-Automation (in progress)
-
----
-
-## 🚀 Featured Projects
-
-### 🔸 Colmena Market
-
-Marketplace-style platform focused on user experience, scalability and real-world usage.
-
-### 🔸 Universos Paralelos 🌌
-
-Interactive simulation exploring multiple realities and quantum transitions.
-
-### 🔸 Hacker Web Simulation 💻
-
-Web app with hacker-style UI, interactive console and dynamic visual effects.
-
----
-
-
-## 📫 Contact
-
-📧 Email: gonzalezromannicolas@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/romannicolasgonzalez/
-
----
-
-## ⚡ Colmena Philosophy
-
-🐝 Precision
-🐝 Smart Work
-🐝 Continuous Improvement
-🐝 Purpose-driven Code
-
+I'm interested in opportunities that combine web development, API testing and software quality. You can reach me on [LinkedIn](https://www.linkedin.com/in/romannicolasgonzalez/) or by [email](mailto:gonzalezromannicolas@gmail.com).
