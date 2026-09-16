@@ -1,4 +1,8 @@
-# Román González
+# Roman Nicolas Gonzalez
+
+### Software Engineer · Full Stack Developer · QA Engineer
+
+📍 Buenos Aires, Argentina
 
 ```bash
 > Initializing system...
@@ -6,75 +10,57 @@
 > Status: ACTIVE 🟢
 ```
 
-🚀 **Software Engineer | QA Tester | Full Stack Developer**
+I'm **Roman Nicolas Gonzalez** (Román Nicolás González), a software developer and QA professional with 4+ years of experience testing web applications, REST APIs and backend systems. I build and validate reliable digital products with a strong focus on quality, usability and real-world value.
 
-Building scalable, reliable and production-ready applications.
-
----
-
-## 🧠 About Me
-
-Full Stack Developer and QA Engineer focused on delivering high-quality software.
-I combine development and testing to build robust, efficient and scalable systems.
-
-🔍 Software Testing & Quality Assurance
-⚙️ Web Development
-🤖 Automation
-🚀 Business-oriented solutions
+[LinkedIn](https://www.linkedin.com/in/romannicolasgonzalez/) · [GitHub](https://github.com/romangon10)
 
 ---
 
-## 🛠️ Tech Stack
+## Core expertise
 
-### 💻 Frontend
-
-HTML | CSS | JavaScript | React
-
-### ⚙️ Backend
-
-Node.js | Python
-
-### 🗄️ Database
-
-SQL
-
-### 🧪 QA & Testing
-
-Manual Testing
-Test Case Design
-Bug Reporting
-Automation (in progress)
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Python, REST APIs
+- **Data:** SQL, SQLite
+- **Quality Assurance:** manual testing, API testing, test-case design, bug reporting and regression testing
+- **Automation:** automated checks, Playwright, Postman and Newman
+- **Workflow:** Git, GitHub Actions and agile collaboration
 
 ---
 
-## 🚀 Featured Projects
+## Selected projects
 
-### 🔸 Colmena Market
+### 🐝 [Colmena Market](https://github.com/romangon10/Colmena-Market)
 
-Marketplace-style platform focused on user experience, scalability and real-world usage.
+A full-stack commerce project designed around a practical shopping experience, maintainable architecture and reliable application behavior.
 
-### 🔸 Universos Paralelos 🌌
+`JavaScript` · `Node.js` · `SQLite` · `REST API` · `Automated tests`
 
-Interactive simulation exploring multiple realities and quantum transitions.
+### 🧵 [CUCULICH](https://github.com/romangon10/CUCULICH)
 
-### 🔸 Hacker Web Simulation 💻
+An interactive fashion experience built with React and Vite, combining editorial design, fluid navigation and a distinctive visual identity.
 
-Web app with hacker-style UI, interactive console and dynamic visual effects.
+`React` · `Vite` · `JavaScript` · `Responsive UI`
 
----
+### 💻 [Hacker Web Simulation](https://github.com/romangon10/Hacker-Web-Simulation)
 
+A browser-based hacker-style simulation featuring an interactive terminal, dynamic effects and deterministic JavaScript logic.
 
-## 📫 Contact
-
-📧 Email: gonzalezromannicolas@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/romannicolasgonzalez/
+`JavaScript` · `Canvas` · `Node.js` · `Testing`
 
 ---
 
-## ⚡ Colmena Philosophy
+## How I work
 
-🐝 Precision
-🐝 Smart Work
-🐝 Continuous Improvement
-🐝 Purpose-driven Code
+I combine a developer's perspective with a QA mindset: understand the product, identify risks early, build clear solutions and verify the result before delivery.
 
+- Quality and precision
+- Clear, maintainable code
+- Continuous improvement
+- Product-focused decisions
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/romannicolasgonzalez](https://www.linkedin.com/in/romannicolasgonzalez/)
+- **Email:** [gonzalezromannicolas@gmail.com](mailto:gonzalezromannicolas@gmail.com)
