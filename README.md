@@ -1,82 +1,131 @@
 <div align="center">
 
-# Roman Nicolas Gonzalez
+<img src="./assets/profile-banner.svg" width="100%" alt="Román Nicolás González — Software Engineer, QA Automation, Full Stack" />
 
-### Software Engineer · Full Stack Developer · QA Engineer
+<br/>
 
-**Buenos Aires, Argentina**
+### I build software — and the systems that prove it works.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman_Nicolas_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romannicolasgonzalez/)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romangon10)
+**QA Automation · Full Stack Engineering · API Testing · AI-assisted Quality**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romannicolasgonzalez/)
+[![Portfolio](https://img.shields.io/badge/GitHub-Explore_projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/romangon10?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=romangon10&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## Professional profile
+## 01 / Engineering profile
 
-I'm **Roman Nicolas Gonzalez** (Román Nicolás González), a software developer and QA professional with **4+ years of experience** validating web applications, REST APIs and backend systems.
+I'm **Román Nicolás González**, a Software Developer & QA Engineer from Buenos Aires with **4+ years of experience in software quality**, validating web applications, REST APIs and backend systems.
 
-I combine development and testing to deliver products that are reliable, maintainable and useful: I understand the business flow, identify risks, implement solutions and verify the result.
+My strongest work lives where **development and quality engineering meet**: understanding a product, finding its risks, building the solution, automating its validation and integrating those checks into the delivery workflow.
 
-## What I bring
+`BUILD` → `TEST` → `AUTOMATE` → `VERIFY` → `SHIP`
 
-- **Quality engineering:** manual testing, API testing, regression, test design and clear bug reporting.
-- **Full-stack development:** responsive interfaces, REST services, persistence and automated checks.
-- **Product mindset:** practical decisions, attention to usability and continuous improvement.
+---
 
-## Technology stack
+## 02 / Core stack
 
-**Frontend**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+### Development
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
 
-**Backend and data**
+</td>
+<td width="50%" valign="top">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+### Quality engineering
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
+![API Testing](https://img.shields.io/badge/API_Testing-111827?style=flat-square)
+![E2E](https://img.shields.io/badge/E2E_Automation-111827?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
 
-**QA and workflow**
+</td>
+</tr>
+</table>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+---
 
-## Featured work
+## 03 / Featured build
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [**Colmena Market**](https://github.com/romangon10/Colmena-Market) | Full-stack commerce flow, secure API validation, relational persistence and automated tests | JavaScript · Node.js · SQLite · Drizzle ORM |
-| [**CUCULICH**](https://github.com/romangon10/CUCULICH) | Premium responsive fashion experience with a black-and-gold identity and fluid interactions | React · Vite · Framer Motion |
-| [**Hacker Web Simulation**](https://github.com/romangon10/Hacker-Web-Simulation) | Interactive browser simulation with separated logic, deterministic tests and CI | JavaScript · Canvas API · Node.js |
-| [**Universos Paralelos**](https://github.com/romangon10/Universos-Paralelos) | Experimental interactive interface and visual storytelling | HTML · CSS · JavaScript |
+<table>
+<tr>
+<td width="100%">
 
-## QA focus
+### ◈ [AI QA Agent](https://github.com/romangon10/AI-QA-Agent)
+**Quality engineering for the AI era.**
 
-- Functional, smoke, regression and exploratory testing
-- REST API and backend validation with Postman and Newman
-- Test-case design, boundary analysis and defect lifecycle
-- Deterministic automated checks and continuous integration
-- Clear technical documentation and reproducible evidence
+A futuristic QA engineering workspace built around a simple idea: software generation is getting faster, so **verification has to get smarter too**. The project combines test-scenario generation, automated execution, quality signals and CI into one experience.
 
-## Current focus
+**What it demonstrates**
 
-Building portfolio projects that connect **software development, test automation and product quality**, while expanding my experience with React, Node.js and modern QA workflows.
+`AI-assisted QA` · `Playwright` · `E2E automation` · `GitHub Actions` · `Quality gates`
+
+[![AI QA Pipeline](https://github.com/romangon10/AI-QA-Agent/actions/workflows/qa.yml/badge.svg)](https://github.com/romangon10/AI-QA-Agent/actions/workflows/qa.yml)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-→-7C8CFF?style=for-the-badge)](https://github.com/romangon10/AI-QA-Agent)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / Selected systems
+
+| Project | Engineering focus | Technology |
+| :--- | :--- | :--- |
+| **[CUCULICH](https://github.com/romangon10/CUCULICH)** | Premium responsive fashion experience with a black-and-gold visual identity | React · Vite · Framer Motion |
+| **[Hacker Web Simulation](https://github.com/romangon10/Hacker-Web-Simulation)** | Interactive browser simulation backed by deterministic automated checks | JavaScript · Playwright · CI |
+| **[Colmena Market](https://github.com/romangon10/Colmena-Market)** | Full-stack commerce flow with API validation and relational persistence | Node.js · SQLite · REST |
+| **[Universos Paralelos](https://github.com/romangon10/Universos-Paralelos)** | Experimental interface and interactive visual storytelling | HTML · CSS · JavaScript |
+
+---
+
+## 05 / Quality mindset
+
+<table>
+<tr>
+<td align="center"><b>01</b><br/><sub>UNDERSTAND<br/>THE RISK</sub></td>
+<td align="center">→</td>
+<td align="center"><b>02</b><br/><sub>DESIGN<br/>THE TEST</sub></td>
+<td align="center">→</td>
+<td align="center"><b>03</b><br/><sub>AUTOMATE<br/>THE CHECK</sub></td>
+<td align="center">→</td>
+<td align="center"><b>04</b><br/><sub>PROTECT<br/>THE RELEASE</sub></td>
+</tr>
+</table>
+
+I work across **functional testing, regression, exploratory testing, REST API validation, test-case design, defect analysis and automated E2E checks** — with reproducible evidence and clear technical documentation.
+
+---
+
+## 06 / Current direction
+
+> ### QA Automation × Full Stack × Artificial Intelligence
+>
+> Building toward engineering workflows where software isn't only developed faster — **it's continuously verified.**
+
+Currently deepening my work with **Playwright, CI/CD, React, Node.js, Python and AI-assisted testing workflows**.
 
 ---
 
 <div align="center">
 
-### Let's connect
+### Build with intent. Test with evidence. Ship with confidence.
 
-[LinkedIn](https://www.linkedin.com/in/romannicolasgonzalez/) · [Email](mailto:gonzalezromannicolas@gmail.com) · [Repositories](https://github.com/romangon10?tab=repositories)
+[**LinkedIn**](https://www.linkedin.com/in/romannicolasgonzalez/) · [**Repositories**](https://github.com/romangon10?tab=repositories) · [**Email**](mailto:gonzalezromannicolas@gmail.com)
+
+<sub>Buenos Aires, Argentina · Software Engineering / Quality Engineering</sub>
 
 </div>
