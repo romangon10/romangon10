@@ -73,7 +73,7 @@ A futuristic QA engineering workspace built around a simple idea: software gener
 `AI-assisted QA` · `Playwright` · `E2E automation` · `GitHub Actions` · `Quality gates`
 
 [![AI QA Pipeline](https://github.com/romangon10/AI-QA-Agent/actions/workflows/qa.yml/badge.svg)](https://github.com/romangon10/AI-QA-Agent/actions/workflows/qa.yml)
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-→-7C8CFF?style=for-the-badge)](https://github.com/romangon10/AI-QA-Agent)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-→-D4AF37?style=for-the-badge&labelColor=0B0B0B)](https://github.com/romangon10/AI-QA-Agent)
 
 </td>
 </tr>
@@ -92,7 +92,30 @@ A futuristic QA engineering workspace built around a simple idea: software gener
 
 ---
 
-## 05 / Quality mindset
+## 05 / Engineering flow
+
+```text
+PRODUCT / API
+     │
+     ▼
+RISK ANALYSIS ──────► TEST DESIGN
+                         │
+                         ▼
+                   AUTOMATION LAYER
+                   Playwright · API
+                         │
+                         ▼
+                    QUALITY GATE
+                         │
+                  ┌──────┴──────┐
+                  ▼             ▼
+                PASS          DEFECT
+                  │             │
+                  ▼             ▼
+               RELEASE      EVIDENCE
+```
+
+## 06 / Quality mindset
 
 <table>
 <tr>
@@ -110,13 +133,21 @@ I work across **functional testing, regression, exploratory testing, REST API va
 
 ---
 
-## 06 / Current direction
+## 07 / Current direction
 
 > ### QA Automation × Full Stack × Artificial Intelligence
 >
 > Building toward engineering workflows where software isn't only developed faster — **it's continuously verified.**
 
 Currently deepening my work with **Playwright, CI/CD, React, Node.js, Python and AI-assisted testing workflows**.
+
+### Engineering signals
+
+![AI QA Pipeline](https://github.com/romangon10/AI-QA-Agent/actions/workflows/qa.yml/badge.svg)
+![GitHub followers](https://img.shields.io/github/followers/romangon10?style=flat-square&label=FOLLOWERS&color=D4AF37&labelColor=0B0B0B)
+![GitHub User's stars](https://img.shields.io/github/stars/romangon10?affiliations=OWNER&style=flat-square&label=PROJECT%20STARS&color=D4AF37&labelColor=0B0B0B)
+
+**What I care about:** maintainable code · reproducible defects · meaningful automation · fast feedback · release confidence
 
 ---
 
